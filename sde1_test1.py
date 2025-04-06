@@ -1,3 +1,7 @@
 a, b = 2, 3
-c = a.__add__(b)
-print(c)
+e, f = 6, 7
+x = a.__add__(b)
+print(x)
+y = e.__mul__(f)
+print(y)
+
