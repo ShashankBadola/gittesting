@@ -5,5 +5,5 @@ x = a.__add__(b)
 print(x)
 y = d.__sub__(c)
 print(y)
-z = e * f
+z = e.__mul__(f)
 print(z)
