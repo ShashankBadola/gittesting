@@ -1,3 +1,3 @@
 a, b = 1, 2
-c = a + b
+c = a.__add__(b)
 print(c)
